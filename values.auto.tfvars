@@ -4,3 +4,5 @@ gcp_project = "domleartechtech"
 cluster_location = "europe-west2-a"
 cluster_name = "lear-tech-k8-cluster"
 parent_domain = "leartech.tech"
+lets_encrypt_production = true
+tls_email = "mike.lear@mqube.com"
